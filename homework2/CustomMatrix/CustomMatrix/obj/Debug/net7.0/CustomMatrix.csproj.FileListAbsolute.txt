@@ -1,0 +1,15 @@
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\bin\Debug\net7.0\CustomMatrix.exe
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\bin\Debug\net7.0\CustomMatrix.deps.json
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\bin\Debug\net7.0\CustomMatrix.runtimeconfig.json
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\bin\Debug\net7.0\CustomMatrix.dll
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\bin\Debug\net7.0\CustomMatrix.pdb
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.csproj.AssemblyReference.cache
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.AssemblyInfoInputs.cache
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.AssemblyInfo.cs
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.dll
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\refint\CustomMatrix.dll
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.pdb
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\CustomMatrix.genruntimeconfig.cache
+D:\Programming\C#\Polytech\SoftwareDevelopmentCourse\homework2\CustomMatrix\CustomMatrix\obj\Debug\net7.0\ref\CustomMatrix.dll
