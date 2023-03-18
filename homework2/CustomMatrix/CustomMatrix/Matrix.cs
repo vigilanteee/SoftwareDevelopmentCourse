@@ -55,7 +55,7 @@ public class Matrix
                 return _data[i][j];
             return null;
         }
-        set
+        private set
         {
             if (i >= 0 && i < _rows 
                        && j >= 0 && j < _cols 
@@ -118,7 +118,7 @@ public class Matrix
     public static Matrix operator *(Matrix m1, Matrix m2)
     {
         if (m1._rows != m2._rows || m1._cols != m2._cols)
-            return m1;
+            throw new FormatException();
         Matrix result = new Matrix(m1._rows, m1._cols);
         for (int i = 0; i < result._rows; i++)
         {
@@ -206,7 +206,7 @@ public class Matrix
             if (i > 0 && cols != sCols.Length)
                 throw new FormatException();
             for (int j = 0; j < cols; j++)
-                m[i, j] = Convert.ToDouble(sCols[j]);
+                m[i, j] = Convert.ToDouble(sCols[j].Replace('.', ','));
         }
         return true;
     }

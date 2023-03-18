@@ -16,7 +16,6 @@ public class MatrixTests
         new double[] { 2, 4, 6 }
     };
     private readonly double[,] _randArr3 = { { 1, -1 }, { 2, -2 }, { -3, 0 } };
-
     private readonly double[,] _symmetricArr = { { 1, 3, 0 }, { 3, 2, 6 }, { 0, 6, 5 } };
     private readonly double[,] _emptyArr = { { 0, 0 }, { 0, 0 }, { 0, 0 } };
 

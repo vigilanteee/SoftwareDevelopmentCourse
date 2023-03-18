@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artem\\Desktop\\Polytech\\6 семестр\\ТРПО\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\IntroductionToTypeReflection.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\Polytech\\SoftwareDevelopmentCourse\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\IntroductionToTypeReflection.csproj",
       "projectName": "IntroductionToTypeReflection",
-      "projectPath": "C:\\Users\\Artem\\Desktop\\Polytech\\6 семестр\\ТРПО\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\IntroductionToTypeReflection.csproj",
+      "projectPath": "D:\\Programming\\C#\\Polytech\\SoftwareDevelopmentCourse\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\IntroductionToTypeReflection.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artem\\Desktop\\Polytech\\6 семестр\\ТРПО\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\Polytech\\SoftwareDevelopmentCourse\\homework1\\IntroductionToTypeReflection\\IntroductionToTypeReflection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
